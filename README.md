@@ -40,7 +40,6 @@ The following table summarizes the evaluation metrics for each of the models use
 | DecisionTreeClassifier  | 0.78    | 0.78      | 0.78   | 0.78     | 0.86         |
 | RandomForestClassifier  | 0.82    | 0.83      | 0.82   | 0.81     | 0.97         |
 | MultinomialNB           | 0.71    | 0.74      | 0.71   | 0.67     | 0.94         |
-| XGBClassifier           | 0.91    | 0.91      | 0.91   | 0.91     | 0.99         |
 
 These metrics provide a measure of how well each model performed on the test dataset. The metrics used to evaluate the models are:
 
